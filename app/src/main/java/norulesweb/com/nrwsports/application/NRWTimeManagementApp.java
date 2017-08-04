@@ -24,7 +24,7 @@ public class NRWTimeManagementApp extends Application {
 
     private static final String TAG = "Application";
 
-    public static final String API_URL = "http://192.168.11.61:9090/api-auth/";
+    public static final String API_URL = "http://192.168.5.186:9090/api-auth/";
 
     public static String jwt = "";
 
